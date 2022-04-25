@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CozyCornerBot": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "BotToken": "OTM1MTUyNjk3MjE1MTU2Mjg1.Ye6e0Q.jCANBov_HNOoB8SQHkBNt_NZf_A"
+      }
+    }
+  }
+}
